@@ -12,7 +12,7 @@ let userMessage;
 // https://platform.openai.com/api-keys
 
 const API_KEY =
-  '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';
+  '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';
 const API_URL = 'https://openrouter.ai/api/v1/chat/completions';
 
 const inputInitHeight = chatInput.scrollHeight;
